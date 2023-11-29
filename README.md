@@ -1,4 +1,4 @@
-Open [https://gregarious-salamander-7e1070.netlify.app/](https://gregarious-salamander-7e1070.netlify.app/) to view the project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
